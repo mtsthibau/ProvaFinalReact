@@ -1,0 +1,38 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  background-color: rgb(56, 92, 255);
+}
+
+.menuItens {
+  display: flex;
+  flex-direction: row;
+}
+
+.menuItens div {
+  font-size: 2em;
+  background-color: rgb(56, 92, 255);
+  color: #fff;
+  border: 0px solid #fff;
+  padding: 30px;
+}
+
+.menuItens div:hover {
+  color: #000;
+  font-weight: 600;
+  padding: 30px;
+  font-style: italic;
+}
+
+.menuItens div:focus {
+  background-color: rgb(69, 101, 241);
+  color: #000;
+  font-weight: 600;
+  padding: 30px;
+}
+
+.active {
+  color: #000;
+  font-weight: 600;
+}

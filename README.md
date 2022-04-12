@@ -1,22 +1,8 @@
-# Trabalho API REACT - FRONT END COTEMIG
-Terceiro Trabalho REACT - Consumindo API`s 
-API RICK MORTY
+# Prova FINAL API REACT - FRONT END COTEMIG
+Prova FINAL REACT REACT 
 
-
-
-## TODO
- - Passar menu para router
- - Melhorar CSS
- - Passar CSS para SCSS
- - Fazer paginação (https://www.npmjs.com/package/react-paginate)
- - Chamadas de API's para relacionamentos
- - Fazer abrir item?
- - Layout de Locations e 
-
-
-## AUTORES
+## AUTOR
 Matheus Thibau Paulino 
-Giulio Dias Machado
 
 
 ## PROFESSOR(A)
